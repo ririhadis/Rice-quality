@@ -31,6 +31,7 @@ Jumlah data yang digunakan:
 | Testing | 326 |
 
 ---
+Link data set : https://kaggle.com/datasets/d9a3d21bada9de0428c0c1a3b310538f9fd3c4a5fc831252af251585a1434e9d
 
 ## 🛠️ Library yang Digunakan
 
