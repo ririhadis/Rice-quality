@@ -157,11 +157,12 @@ Beberapa pengembangan yang dapat dilakukan:
 
 | Nama | Peran |
 |--------|--------|
-| Sri Ulan Muharromi, S.Kom | Machine Learning Engineer |
-| Srie Wahyudhanis Hadis, S.Kom | Machine Learning Engineer |
-| Ary Kurnia | Back End Engineer |
-| Camelia Regista | Non Technical |
-| Yeni | Non Technical |
+| Camelia Regista | AI Engineer |
+| Yeni | AI Engineer |
+| Sri Ulan Muharromi, S.Kom | AI Engineer |
+| Srie Wahyudhanis Hadis, S.Kom | AI Engineer |
+| Ary Kurnia | AI Engineer |
+
 
 ---
 
